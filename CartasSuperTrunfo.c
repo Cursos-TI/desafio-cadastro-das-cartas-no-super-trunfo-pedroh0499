@@ -7,6 +7,18 @@
 //Teste larissa
 
 int main() {
+    int populaçao;
+    float area;
+    float pib;
+    int pontos;
+
+    printf ("População: %d\n", populaçao);
+    printf ("Área: %f\n", area);
+    printf ("PIB: %f\n", pib);
+    printf ("Número de pontos turísticos: %d\n", pontos);
+
+    
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
