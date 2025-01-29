@@ -1,4 +1,5 @@
 #include <stdio.h>
+   int main(){
    char estado;
    char codigo[20];
    char nome[20];
@@ -36,5 +37,5 @@
    printf("PIB: %f\n", pib);
    printf("Número de pontos turísticos: %d\n", pontos);
 
-    return 0;
+   return 0;
 }
