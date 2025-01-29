@@ -1,5 +1,5 @@
 #include <stdio.h>
-   int main(){
+int main(){
    char estado;
    char codigo[20];
    char nome[20];
